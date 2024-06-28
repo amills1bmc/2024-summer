@@ -58,3 +58,6 @@ Something has been typed
 Now it is **bold** and *italicized*
 
 [It can be linked too](https://www.brynmwr.edu)
+
+- I can have a list too
+- Of many things
