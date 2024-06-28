@@ -52,3 +52,9 @@ Paragraph with **bold** text and *italicized* text.
 See also this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for more markdown syntax.
 
 Something has been typed
+
+## Something is a header
+
+Now it is **bold** and *italicized*
+
+[It can be linked too](https://www.brynmwr.edu)
